@@ -1,0 +1,28 @@
+v 3
+file . "macchinatb.vhdl" "20140428074607.000" "20140428101552.989":
+  entity macchinatb at 1( 0) + 0 on 77;
+  architecture machinetb of macchinatb at 6( 83) + 0 on 78;
+file . "fulladder8bit.vhdl" "20140428071658.000" "20140428091700.232":
+  entity fulladder8bit at 1( 0) + 0 on 41;
+  architecture fa8_arc of fulladder8bit at 6( 190) + 0 on 42;
+file . "fulladder.vhdl" "20140424082046.000" "20140424165736.761":
+  entity fulladder at 1( 0) + 0 on 33;
+  architecture full_arc of fulladder at 6( 79) + 0 on 34;
+file . "contatoretb.vhdl" "20140424132642.000" "20140424153642.858":
+  entity contatoretb at 1( 0) + 0 on 29;
+  architecture cttb of contatoretb at 5( 86) + 0 on 30;
+file . "ffd.vhdl" "20140424103152.000" "20140424151944.078":
+  entity ffd at 1( 0) + 0 on 13;
+  architecture ffd_arc of ffd at 7( 109) + 0 on 14;
+file . "clock.vhdl" "20140424082628.000" "20140424151929.227":
+  entity clock at 1( 0) + 0 on 11;
+  architecture cl of clock at 6( 49) + 0 on 12;
+file . "contatore.vhdl" "20140428081511.000" "20140428101526.038":
+  entity contatore at 3( 2) + 0 on 73;
+  architecture cont_arc of contatore at 8( 107) + 0 on 74;
+file . "halfAdder.vhdl" "20140424074927.000" "20140424165716.731":
+  entity halfadder at 1( 0) + 0 on 31;
+  architecture ha_arc of halfadder at 6( 76) + 0 on 32;
+file . "macchina.vhdl" "20140428081110.000" "20140428101536.505":
+  entity macchina at 1( 0) + 0 on 75;
+  architecture macchina_arc of macchina at 5( 158) + 0 on 76;
